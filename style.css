@@ -1,0 +1,33 @@
+.indexMenu {
+  margin: 20px;
+  text-align: center;
+}
+
+.indexATag {
+  margin: 20px;
+  border: solid 2px;
+  padding: 30px;
+}
+
+.task {
+  margin: 0 auto;
+  display: block;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: white;
+  padding: 16px 32px;
+  border: 2px solid #4caf50;
+}
+
+.task:hover {
+  background-color: #4caf50;
+  color: white;
+}
+
+#indexATag {
+  text-decoration: none;
+  color: black;
+}
